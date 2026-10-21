@@ -112,6 +112,7 @@ p + p { margin-top: 12px; }
    4. BỐ CỤC DÙNG CHUNG
    ============================================================ */
 .khung {
+  
   max-width: var(--rong-toi-da);
   margin: 0 auto;
   padding: 72px 24px;
